@@ -53,7 +53,7 @@ CryptoNet is an open world metaverse that will be able to be connected to the ma
 ### Installation
 
 1. Do a git clone [copied git link]
-  - This will pull down the master version of the project
+   - This will pull down the master version of the project
 
 
 <!-- USAGE EXAMPLES -->
@@ -71,10 +71,10 @@ CryptoNet will be used in the metaverse as an open world that people can go into
 1. Add Multiplayer functionality, starting with Mirror as a test case.
 1. Add Character to be loaded in and changed by any user that is added.
 1. Add Enjin Coin to Unity game as the plug in located at: 
-  - [Enjin Coin Asset Package](https://assetstore.unity.com/packages/tools/utilities/blockchain-sdk-by-enjin-124133)
-  - [Enjin Coin Website](https://enjin.io/)
+   - [Enjin Coin Asset Package](https://assetstore.unity.com/packages/tools/utilities/blockchain-sdk-by-enjin-124133)
+   - [Enjin Coin Website](https://enjin.io/)
 1. Build in the inventory system
-  - This will be tied to the users Enjin coin wallet.
+   - This will be tied to the users Enjin coin wallet.
 
 <!-- CONTRIBUTING -->
 ## Contributing
